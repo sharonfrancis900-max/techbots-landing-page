@@ -51,3 +51,6 @@ The endpoint should use the idempotency key to prevent duplicate lead creation, 
 
 ## Recommended QA
 Test on iPhone-size and Android-size viewports, desktop Chrome/Edge/Safari, form validation, duplicate submission handling, consent storage, PDF download, confirmation email, error logging and Calendly destination.
+
+## Branding update
+This build uses the supplied official Techbots hand/circuit logo. The web-ready assets are `assets/techbots-symbol.png` and `assets/techbots-logo-light.png`.
